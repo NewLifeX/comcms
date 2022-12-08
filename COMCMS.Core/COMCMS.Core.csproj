@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="NewLife.XCode" Version="10.3.2021.1109" />
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
   <ItemGroup>
